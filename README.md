@@ -3,18 +3,7 @@
   [![GitHub forks](https://img.shields.io/github/forks/Prajwal100/Complete-Ecommerce-in-laravel-10.svg)](https://github.comPrajwal100/Complete-Ecommerce-in-laravel-10/network)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
   
-### HIRE ME:- https://www.upwork.com/freelancers/~01210bb2575a8c05a9
 
-## Complete E-commerce website in  Laravel 10
-
-
-#### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
-
-#### Demo video :
-https://youtu.be/RxyrQQ3oTIE?si=Iq25IuJ8_eB5OJpC
-
-#### Full tutorial :
-https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s
 
 ### Features :
 - ##### PWA (progressive web app)
@@ -37,7 +26,6 @@ https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_
 - Payment integration(Paypal)
 - Order Tracking system
 - Multi-level comment system
-many more......
 
 ## ======= ADMIN =======
 
@@ -58,7 +46,6 @@ many more......
 - Generate order in pdf form...
 - Real time message & notification
 - Profile Settings
-Many more....
 
 
 ## ======= USER DASHBOARD =======
@@ -86,7 +73,6 @@ Many more....
 11. Visit ```localhost:8000``` in your browser
 12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
 
-<p style="text-align:center">Thank You so much for your time !!!</p>
 
 
 ### Screenshots :
@@ -99,6 +85,7 @@ Many more....
 
 ![screencapture-e-shop-loc-blog-2020-08-14-18_36_21](https://user-images.githubusercontent.com/29488275/90719648-a8228480-e2d4-11ea-9c57-5ed7aef50e26.png)
 
+![screencapture-e-shop-loc-2020-08-14-18_19_46](https://user-images.githubusercontent.com/29488275/90719631-a1940d00-e2d4-11ea-89a3-eb36960d687d.png)
 
 
 
