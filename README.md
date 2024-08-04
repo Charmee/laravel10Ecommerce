@@ -83,6 +83,9 @@
 ![screencapture-e-shop-loc-admin-product-2020-08-14-19_44_49](https://user-images.githubusercontent.com/29488275/90719534-61348f00-e2d4-11ea-8a81-409daee0ad94.png)
 
 
+![screencapture-e-shop-loc-admin-product-2020-08-14-19_44_49](Screenshot 2024-09-09094909)
+
+
 
 
 
